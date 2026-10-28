@@ -1,0 +1,39 @@
+NAVEGADOR 3DS - como instalar
+=============================
+
+Navegador leve para o 3DS (Old e New): abre sites de texto como Wikipedia,
+noticias, blogs, foruns e buscas. Tem favoritos, historico, voltar/avancar,
+formularios (busca, campos de texto, caixas de marcar) e downloads para o SD.
+
+NO 3DS (escolha um jeito)
+- No HOME Menu, como um jogo: copie "Navegador3DS.cia" para o SD e
+  instale pelo FBI. Depois pode apagar o .cia do SD.
+- Pelo Homebrew Launcher: copie "Navegador3DS.3dsx" para a pasta /3ds/ do SD.
+
+CONTROLES
+- Direcional cima/baixo ou circular: rolar. L / R: uma tela inteira.
+- Direcional esquerda/direita: escolher link ou campo. A: abrir.
+- Toque na tela de baixo para abrir links e campos; arraste para rolar.
+- B: voltar. X: recarregar (ou parar). Y: digitar endereco ou pesquisa.
+- SELECT: salvar/tirar dos favoritos. START: sair.
+- Barra de baixo: voltar, avancar, recarregar, endereco, favorito, inicio.
+
+O QUE FUNCIONA E O QUE NAO
+- Funciona: paginas de texto e formularios simples (buscas, logins
+  simples). A busca usa o DuckDuckGo Lite.
+- Nao funciona: sites que dependem de JavaScript (YouTube, Gmail, redes
+  sociais, Canvas). Para o Canvas use o app Canvas 3DS.
+- Imagens aparecem como [imagem].
+- Site pesado? Abra pelo FrogFind (link na pagina inicial).
+
+ATUALIZAR SEM TIRAR O CARTAO
+- O app procura versao nova sozinho ao abrir. Quando tiver, aparece a
+  janela "Versao nova": aperte A para baixar e instalar. Na mao:
+  pagina inicial > Ajustes > Procurar versao nova.
+
+ARQUIVOS NO CARTAO SD (pasta 3ds/Navegador3DS)
+- favoritos.txt e historico.txt (titulo<TAB>endereco), cookies.txt,
+  config.ini e a pasta downloads.
+
+O QUE MUDOU NESTA VERSAO (1.0.0)
+- Primeira versao.
